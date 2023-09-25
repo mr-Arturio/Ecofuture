@@ -1,10 +1,11 @@
 ### EcoFuture
+https://www.ecofuture.com.ua/
 
 Here is stored all the files and images that are used in EcoFuture WebSite
 
 Also prefered colored schemas:
 
-
+![color schema example](./Ecofuture_colors.png)
 
 
 For translate the pages we there are two installed plugins:
