@@ -16,7 +16,11 @@ To translate the pages there are two installed plugins:
 
 1. GTranslate - nice looking and supports as many languages as possible - but only Google Translates, you can not edit translations.
 2. TranslatePress - only two languages in the free version, but you can edit translations (actually in en to ua case you need to manually type all the translations)
+
 ---
+### UOD: decided to display each product (with multiple images and descriptions) on a separate page when the user clicked on the image on the home page, and installed the WOOcomers plugin.
+now need to organize everything nice 
+
 #### Need to be done 
 - add proper slider/carousel(eng and ua?)
 - add Christmas? 
@@ -26,6 +30,8 @@ To translate the pages there are two installed plugins:
 - translate to ua
 - footer menu list
 - price list in pdf + English version
+- product pages for WooCommerce
+- style product page
 
 
 #### Done
@@ -36,3 +42,4 @@ To translate the pages there are two installed plugins:
 - colors, buttons etc.
 - redirect About Us page 
 - Updated price list (need imgs?)
+- WooCommerce installed, a couple product pages created 
